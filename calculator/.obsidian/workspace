@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "0d9ddb06a6d67579",
+    "type": "split",
+    "children": [
+      {
+        "id": "d22fc01615a8cfe8",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "design/desktop-design-theme-1.jpg"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c46dd662c24b39b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd4000835654a815",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56e6cfd0bcc2c86b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e863752a6cd37a47",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "59dc00db0ed69707",
+    "type": "split",
+    "children": [
+      {
+        "id": "330cf2bd7fc0c6df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "531c09a197c24059",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "design/desktop-design-theme-1.jpg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d22fc01615a8cfe8",
+  "lastOpenFiles": [
+    "design/desktop-design-theme-1.jpg",
+    "design/desktop-design-theme-2.jpg",
+    "design/desktop-design-theme-3.jpg",
+    "style-guide.md",
+    "README-template.md",
+    "README.md"
+  ]
+}
